@@ -1,2 +1,2 @@
 # myFirstRepository
-practice
+readme-edits
